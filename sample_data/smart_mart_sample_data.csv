@@ -1,0 +1,294 @@
+transaction_date,description,transaction_type,category,amount,payment_method,notes
+2025-11-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2025-11-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,47530.0,UPI,Late Autumn Baseline
+2025-11-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,87400.0,Bank Transfer,Primary distributor restock
+2025-11-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,21952.0,Cash,Walk-in retail
+2025-11-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2025-11-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,26264.0,Debit Card,Weekend basket
+2025-11-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,16800.0,UPI,Commercial tariff + refrigeration
+2025-11-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,51156.0,UPI,Regular household restock
+2025-11-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,19350.0,UPI,Seasonal promotional spend
+2025-11-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,18522.0,UPI,Local apartment deliveries
+2025-11-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,24108.0,Debit Card,Kitchen & home gadgets
+2025-11-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,60800.0,Cheque,Secondary vendor invoice
+2025-11-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,53018.0,Cash,Mid-month retail
+2025-11-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2025-11-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,25088.0,UPI,High-margin impulse sales
+2025-11-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,28812.0,UPI,Brand promotions
+2025-11-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2025-11-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,55664.0,Cash,Month-end pantry buying
+2025-11-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,34200.0,Bank Transfer,Buffer stock
+2025-11-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,43120.0,Bank Transfer,Bulk invoiced order
+2025-11-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,15876.0,UPI,Delivery & convenience
+2025-12-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2025-12-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,61110.0,UPI,Year-End Festive Peak
+2025-12-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,108560.0,Bank Transfer,Primary distributor restock
+2025-12-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,28224.0,Cash,Walk-in retail
+2025-12-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2025-12-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,33768.0,Debit Card,Weekend basket
+2025-12-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,19600.0,UPI,Commercial tariff + refrigeration
+2025-12-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,65772.0,UPI,Regular household restock
+2025-12-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,29025.0,UPI,Seasonal promotional spend
+2025-12-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,23814.0,UPI,Local apartment deliveries
+2025-12-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,30996.0,Debit Card,Kitchen & home gadgets
+2025-12-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,75520.0,Cheque,Secondary vendor invoice
+2025-12-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,68166.0,Cash,Mid-month retail
+2025-12-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,22000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2025-12-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2025-12-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,32256.0,UPI,High-margin impulse sales
+2025-12-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,8500.0,Cash,Seasonal storefront merchandising
+2025-12-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,37044.0,UPI,Brand promotions
+2025-12-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2025-12-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,71568.0,Cash,Month-end pantry buying
+2025-12-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,42480.0,Bank Transfer,Buffer stock
+2025-12-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,55440.0,Bank Transfer,Bulk invoiced order
+2025-12-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,20412.0,UPI,Delivery & convenience
+2026-01-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-01-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,49470.0,UPI,New Year Steady
+2026-01-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,88320.0,Bank Transfer,Primary distributor restock
+2026-01-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,22848.0,Cash,Walk-in retail
+2026-01-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-01-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,27336.0,Debit Card,Weekend basket
+2026-01-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,18200.0,UPI,Commercial tariff + refrigeration
+2026-01-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,53244.0,UPI,Regular household restock
+2026-01-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,20425.0,UPI,Seasonal promotional spend
+2026-01-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,19278.0,UPI,Local apartment deliveries
+2026-01-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,25092.0,Debit Card,Kitchen & home gadgets
+2026-01-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,61440.0,Cheque,Secondary vendor invoice
+2026-01-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,55182.0,Cash,Mid-month retail
+2026-01-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2026-01-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,26112.0,UPI,High-margin impulse sales
+2026-01-20,Distributor Stock Purchase on 30-Day Credit,Expense,Inventory,18000.0,Credit (Payable),Accrued expense; cash settlement due next month
+2026-01-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,4200.0,Cash,Seasonal storefront merchandising
+2026-01-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,29988.0,UPI,Brand promotions
+2026-01-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-01-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,57936.0,Cash,Month-end pantry buying
+2026-01-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,34560.0,Bank Transfer,Buffer stock
+2026-01-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,44880.0,Bank Transfer,Bulk invoiced order
+2026-01-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,16524.0,UPI,Delivery & convenience
+2026-02-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-02-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,45590.0,UPI,Short Month Consolidation
+2026-02-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,82800.0,Bank Transfer,Primary distributor restock
+2026-02-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,21056.0,Cash,Walk-in retail
+2026-02-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-02-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,25192.0,Debit Card,Weekend basket
+2026-02-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,16800.0,UPI,Commercial tariff + refrigeration
+2026-02-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,49068.0,UPI,Regular household restock
+2026-02-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,18275.0,UPI,Seasonal promotional spend
+2026-02-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,17766.0,UPI,Local apartment deliveries
+2026-02-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,23124.0,Debit Card,Kitchen & home gadgets
+2026-02-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,57600.0,Cheque,Secondary vendor invoice
+2026-02-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,50854.0,Cash,Mid-month retail
+2026-02-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2026-02-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,24064.0,UPI,High-margin impulse sales
+2026-02-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,3800.0,Cash,Seasonal storefront merchandising
+2026-02-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,27636.0,UPI,Brand promotions
+2026-02-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-02-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,53392.0,Cash,Month-end pantry buying
+2026-02-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,32400.0,Bank Transfer,Buffer stock
+2026-02-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,41360.0,Bank Transfer,Bulk invoiced order
+2026-03-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-03-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,38800.0,UPI,Off-Season Slowdown & Annual Restock
+2026-03-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,114080.0,Bank Transfer,Primary distributor restock
+2026-03-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,17920.0,Cash,Walk-in retail
+2026-03-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-03-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,21440.0,Debit Card,Weekend basket
+2026-03-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,19600.0,UPI,Commercial tariff + refrigeration
+2026-03-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,41760.0,UPI,Regular household restock
+2026-03-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,24725.0,UPI,Seasonal promotional spend
+2026-03-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,15120.0,UPI,Local apartment deliveries
+2026-03-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,19680.0,Debit Card,Kitchen & home gadgets
+2026-03-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,79360.0,Cheque,Secondary vendor invoice
+2026-03-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,43280.0,Cash,Mid-month retail
+2026-03-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,62000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-03-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2026-03-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,20480.0,UPI,High-margin impulse sales
+2026-03-21,"Store Maintenance, Waterproofing & Compliance Audit",Expense,Miscellaneous,36000.0,Bank Transfer,One-time operational & facility expenditure
+2026-03-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,23520.0,UPI,Brand promotions
+2026-03-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-03-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,45440.0,Cash,Month-end pantry buying
+2026-03-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,44640.0,Bank Transfer,Buffer stock
+2026-03-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,35200.0,Bank Transfer,Bulk invoiced order
+2026-03-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,12960.0,UPI,Delivery & convenience
+2026-04-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-04-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,51410.0,UPI,Spring & Summer Ramp-Up
+2026-04-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,92000.0,Bank Transfer,Primary distributor restock
+2026-04-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,23744.0,Cash,Walk-in retail
+2026-04-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-04-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,28408.0,Debit Card,Weekend basket
+2026-04-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,18200.0,UPI,Commercial tariff + refrigeration
+2026-04-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,55332.0,UPI,Regular household restock
+2026-04-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,21500.0,UPI,Seasonal promotional spend
+2026-04-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,20034.0,UPI,Local apartment deliveries
+2026-04-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,26076.0,Debit Card,Kitchen & home gadgets
+2026-04-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,64000.0,Cheque,Secondary vendor invoice
+2026-04-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,57346.0,Cash,Mid-month retail
+2026-04-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,15000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-04-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2026-04-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,27136.0,UPI,High-margin impulse sales
+2026-04-20,Distributor Stock Purchase on 30-Day Credit,Expense,Inventory,15000.0,Credit (Payable),Accrued expense; cash settlement due next month
+2026-04-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,4500.0,Cash,Seasonal storefront merchandising
+2026-04-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,31164.0,UPI,Brand promotions
+2026-04-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-04-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,60208.0,Cash,Month-end pantry buying
+2026-04-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,36000.0,Bank Transfer,Buffer stock
+2026-04-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,46640.0,Bank Transfer,Bulk invoiced order
+2026-04-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,17172.0,UPI,Delivery & convenience
+2026-05-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-05-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,56260.0,UPI,Summer Peak Demand
+2026-05-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,96600.0,Bank Transfer,Primary distributor restock
+2026-05-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,25984.0,Cash,Walk-in retail
+2026-05-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-05-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,31088.0,Debit Card,Weekend basket
+2026-05-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,16800.0,UPI,Commercial tariff + refrigeration
+2026-05-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,60552.0,UPI,Regular household restock
+2026-05-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,23650.0,UPI,Seasonal promotional spend
+2026-05-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,21924.0,UPI,Local apartment deliveries
+2026-05-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,28536.0,Debit Card,Kitchen & home gadgets
+2026-05-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,67200.0,Cheque,Secondary vendor invoice
+2026-05-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,62756.0,Cash,Mid-month retail
+2026-05-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2026-05-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,29696.0,UPI,High-margin impulse sales
+2026-05-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,5200.0,Cash,Seasonal storefront merchandising
+2026-05-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,34104.0,UPI,Brand promotions
+2026-05-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-05-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,65888.0,Cash,Month-end pantry buying
+2026-05-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,37800.0,Bank Transfer,Buffer stock
+2026-05-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,51040.0,Bank Transfer,Bulk invoiced order
+2026-05-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,18792.0,UPI,Delivery & convenience
+2026-06-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-06-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,47045.0,UPI,Early Monsoon & Fleet Service
+2026-06-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,90160.0,Bank Transfer,Primary distributor restock
+2026-06-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,21728.0,Cash,Walk-in retail
+2026-06-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-06-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,25996.0,Debit Card,Weekend basket
+2026-06-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,19600.0,UPI,Commercial tariff + refrigeration
+2026-06-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,50634.0,UPI,Regular household restock
+2026-06-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,22575.0,UPI,Seasonal promotional spend
+2026-06-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,18333.0,UPI,Local apartment deliveries
+2026-06-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,23862.0,Debit Card,Kitchen & home gadgets
+2026-06-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,62720.0,Cheque,Secondary vendor invoice
+2026-06-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,52477.0,Cash,Mid-month retail
+2026-06-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,18000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-06-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2026-06-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,24832.0,UPI,High-margin impulse sales
+2026-06-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,11000.0,Cash,Seasonal storefront merchandising
+2026-06-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,28518.0,UPI,Brand promotions
+2026-06-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-06-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,55096.0,Cash,Month-end pantry buying
+2026-06-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,35280.0,Bank Transfer,Buffer stock
+2026-06-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,42680.0,Bank Transfer,Bulk invoiced order
+2026-06-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,15714.0,UPI,Delivery & convenience
+2026-07-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-07-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,37830.0,UPI,Peak Monsoon Dip & Store Repairs
+2026-07-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,106720.0,Bank Transfer,Primary distributor restock
+2026-07-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,17472.0,Cash,Walk-in retail
+2026-07-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-07-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,20904.0,Debit Card,Weekend basket
+2026-07-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,18200.0,UPI,Commercial tariff + refrigeration
+2026-07-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,40716.0,UPI,Regular household restock
+2026-07-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,30100.0,UPI,Seasonal promotional spend
+2026-07-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,14742.0,UPI,Local apartment deliveries
+2026-07-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,19188.0,Debit Card,Kitchen & home gadgets
+2026-07-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,74240.0,Cheque,Secondary vendor invoice
+2026-07-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,42198.0,Cash,Mid-month retail
+2026-07-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,48000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-07-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2026-07-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,19968.0,UPI,High-margin impulse sales
+2026-07-21,"Store Maintenance, Waterproofing & Compliance Audit",Expense,Miscellaneous,42000.0,Bank Transfer,One-time operational & facility expenditure
+2026-07-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,22932.0,UPI,Brand promotions
+2026-07-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-07-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,44304.0,Cash,Month-end pantry buying
+2026-07-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,41760.0,Bank Transfer,Buffer stock
+2026-07-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,34320.0,Bank Transfer,Bulk invoiced order
+2026-07-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,12636.0,UPI,Delivery & convenience
+2026-08-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-08-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,54320.0,UPI,Pre-Festive Stocking & B2B Credit
+2026-08-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,121440.0,Bank Transfer,Primary distributor restock
+2026-08-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,25088.0,Cash,Walk-in retail
+2026-08-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-08-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,30016.0,Debit Card,Weekend basket
+2026-08-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,16800.0,UPI,Commercial tariff + refrigeration
+2026-08-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,58464.0,UPI,Regular household restock
+2026-08-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,24725.0,UPI,Seasonal promotional spend
+2026-08-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,21168.0,UPI,Local apartment deliveries
+2026-08-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,27552.0,Debit Card,Kitchen & home gadgets
+2026-08-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,84480.0,Cheque,Secondary vendor invoice
+2026-08-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,60592.0,Cash,Mid-month retail
+2026-08-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,88000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-08-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2026-08-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,28672.0,UPI,High-margin impulse sales
+2026-08-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,7500.0,Cash,Seasonal storefront merchandising
+2026-08-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,32928.0,UPI,Brand promotions
+2026-08-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-08-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,63616.0,Cash,Month-end pantry buying
+2026-08-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,47520.0,Bank Transfer,Buffer stock
+2026-08-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,49280.0,Bank Transfer,Bulk invoiced order
+2026-08-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,18144.0,UPI,Delivery & convenience
+2026-09-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-09-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,59170.0,UPI,Festive Buildup
+2026-09-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,101200.0,Bank Transfer,Primary distributor restock
+2026-09-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,27328.0,Cash,Walk-in retail
+2026-09-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-09-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,32696.0,Debit Card,Weekend basket
+2026-09-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,19600.0,UPI,Commercial tariff + refrigeration
+2026-09-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,63684.0,UPI,Regular household restock
+2026-09-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,26875.0,UPI,Seasonal promotional spend
+2026-09-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,23058.0,UPI,Local apartment deliveries
+2026-09-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,30012.0,Debit Card,Kitchen & home gadgets
+2026-09-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,70400.0,Cheque,Secondary vendor invoice
+2026-09-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,66002.0,Cash,Mid-month retail
+2026-09-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,25000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-09-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,13200.0,UPI,Goods carrier & fuel
+2026-09-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,31232.0,UPI,High-margin impulse sales
+2026-09-20,Distributor Stock Purchase on 30-Day Credit,Expense,Inventory,20000.0,Credit (Payable),Accrued expense; cash settlement due next month
+2026-09-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,6500.0,Cash,Seasonal storefront merchandising
+2026-09-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,35868.0,UPI,Brand promotions
+2026-09-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-09-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,69296.0,Cash,Month-end pantry buying
+2026-09-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,39600.0,Bank Transfer,Buffer stock
+2026-09-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,53680.0,Bank Transfer,Bulk invoiced order
+2026-09-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,19764.0,UPI,Delivery & convenience
+2026-10-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-10-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,70810.0,UPI,Diwali Mega Retail Peak
+2026-10-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,112240.0,Bank Transfer,Primary distributor restock
+2026-10-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,32704.0,Cash,Walk-in retail
+2026-10-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-10-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,39128.0,Debit Card,Weekend basket
+2026-10-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,18200.0,UPI,Commercial tariff + refrigeration
+2026-10-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,76212.0,UPI,Regular household restock
+2026-10-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,31175.0,UPI,Seasonal promotional spend
+2026-10-12,Home Delivery & Subscription Orders,Revenue,Home Delivery & Services,27594.0,UPI,Local apartment deliveries
+2026-10-14,Small Appliances & Accessories Sales,Revenue,Electronics & Accessories,35916.0,Debit Card,Kitchen & home gadgets
+2026-10-15,Mid-Month Beverages & Personal Care Restock,Expense,Inventory,78080.0,Cheque,Secondary vendor invoice
+2026-10-17,Groceries & Staples - Week 3 POS Sales,Revenue,Groceries & Staples,78986.0,Cash,Mid-month retail
+2026-10-18,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,32000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-10-18,Inbound Freight & Local Delivery Logistics,Expense,Transportation,15000.0,UPI,Goods carrier & fuel
+2026-10-19,"Beverages, Dairy & Confectionery Batch",Revenue,Beverages & Snacks,37376.0,UPI,High-margin impulse sales
+2026-10-21,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,9500.0,Cash,Seasonal storefront merchandising
+2026-10-22,Personal Care & Cleaning Supplies Batch,Revenue,Personal Care & Home,42924.0,UPI,Brand promotions
+2026-10-23,"Packaging Bags, POS Rolls & Store Supplies",Expense,Miscellaneous,7800.0,Cash,Consumables & stationery
+2026-10-25,Groceries & Staples - Week 4 POS Sales,Revenue,Groceries & Staples,82928.0,Cash,Month-end pantry buying
+2026-10-26,Month-End Fast-Moving Inventory Top-Up,Expense,Inventory,43920.0,Bank Transfer,Buffer stock
+2026-10-27,Corporate & Apartment Bulk Wholesale Order,Revenue,Bulk & Wholesale Orders,64240.0,Bank Transfer,Bulk invoiced order
+2026-10-29,Home Delivery & Express Fulfilment Fees,Revenue,Home Delivery & Services,23652.0,UPI,Delivery & convenience
+2026-11-02,Store Premises & Warehouse Monthly Rent,Expense,Rent,58000.0,Bank Transfer,Commercial lease payment
+2026-11-03,Groceries & Staples - Week 1 POS Sales,Revenue,Groceries & Staples,57230.0,UPI,Current Month Momentum
+2026-11-04,Wholesale FMCG & Grain Inventory Procurement,Expense,Inventory,95680.0,Bank Transfer,Primary distributor restock
+2026-11-05,Beverages & Snacks Counter Sales,Revenue,Beverages & Snacks,26432.0,Cash,Walk-in retail
+2026-11-05,Morning Fresh Produce & Staples Sales,Revenue,Groceries & Staples,19800.0,UPI,Current week retail settlement
+2026-11-05,Store Staff & Cashier Monthly Salaries,Expense,Salaries,94000.0,Bank Transfer,Payroll for 6 staff members
+2026-11-06,Wedding Season & Festive Bulk Grocery Order,Revenue,Bulk & Wholesale Orders,68000.0,Bank Transfer,Early-month institutional & event catering supply
+2026-11-07,Personal Care & Household Counter Sales,Revenue,Personal Care & Home,31624.0,Debit Card,Weekend basket
+2026-11-07,Weekend Snacks & Beverage Rush,Revenue,Beverages & Snacks,16400.0,Cash,Current week retail settlement
+2026-11-08,"Electricity, Cold Storage & Internet Bills",Expense,Utilities,16800.0,UPI,Commercial tariff + refrigeration
+2026-11-08,Fresh Dairy & Bakery Daily Stock,Expense,Inventory,18500.0,Bank Transfer,Local vendor replenishment
+2026-11-09,Personal Care & Cosmetics Counter,Revenue,Personal Care & Home,14200.0,Debit Card,Current week retail settlement
+2026-11-10,Express Local Delivery Batch,Revenue,Home Delivery & Services,11800.0,UPI,Current week retail settlement
+2026-11-10,Groceries & Staples - Week 2 POS Sales,Revenue,Groceries & Staples,61596.0,UPI,Regular household restock
+2026-11-11,B2B Institutional Grocery Supply (Net-30 Credit),Revenue,Bulk & Wholesale Orders,18000.0,Credit (Receivable),Accrual revenue; payment receivable next billing cycle
+2026-11-11,Today Retail POS Counter Settlement,Revenue,Groceries & Staples,24600.0,UPI,Current week retail settlement
+2026-11-11,Today Walk-in Cash Register Close,Revenue,Beverages & Snacks,12900.0,Cash,Current week retail settlement
+2026-11-11,Festive Display Setup & Extra Part-Time Helpers,Expense,Marketing,5000.0,Cash,Seasonal storefront merchandising
+2026-11-11,"Local Flyer, Digital & In-Store Promo Campaign",Expense,Marketing,23650.0,UPI,Seasonal promotional spend
+2026-11-11,Local Van Delivery Fuel & Dispatch,Expense,Transportation,2450.0,Cash,Same-day delivery run

@@ -1,0 +1,3 @@
+transaction_date,description,transaction_type,category,amount,payment_method,notes
+2026-11-11,Weekend Retail Counter Sales,Revenue,Groceries & Staples,24500.00,UPI,Sample revenue entry
+2026-11-10,Electricity & Cold Storage Bill,Expense,Utilities,8200.00,Bank Transfer,Sample expense entry
